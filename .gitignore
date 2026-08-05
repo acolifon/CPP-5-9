@@ -1,0 +1,26 @@
+.DS_Store
+*.o
+*.d
+*.out
+*.a
+*.so
+*.dylib
+
+# Common local executables produced by the module Makefiles
+bureaucrat
+form
+aform
+intern
+convert
+serializer
+identify
+whatever
+iter
+array
+easyfind
+span
+mutantstack
+btc
+RPN
+PmergeMe
+
